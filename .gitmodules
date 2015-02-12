@@ -1,0 +1,3 @@
+[submodule "unvisual-frontend"]
+	path = unvisual-frontend
+	url = git@github.com:cambridge-alpha-team/unvisual-frontend.git
